@@ -1,6 +1,15 @@
 # Furk-Ultra
 Furk Ultra is a executor with a built in scripts
 
+List of features :
+- No Key System
+- Level 8 Executor
+- Custom Bytecode Conversion DLL (Better than KRNL)
+- 200+ Games in script hub
+- Custom scripts
+- High stability
+- Reliable & Always Up To Date
+
 UI:
 ![image](https://user-images.githubusercontent.com/122708389/212520569-15b6b5f1-62c0-46d3-9a53-a5377737f979.png)
 
