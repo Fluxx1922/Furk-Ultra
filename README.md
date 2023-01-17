@@ -5,7 +5,10 @@ Tuturiol:
 1) Click on code (green)
 2) Download ZIP
 3) Extract the ZIP file
-4) Run it Make sure u disable your Windows Antivirus or any kind of antivirus
+4) Run it
+5) Launch any roblox game you want to script in
+6) Click inject
+7) After injecting execute your scripts.
 
 List of features :
 - No Key System
