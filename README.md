@@ -6,7 +6,7 @@ Tuturiol:
 2) Download ZIP
 3) Extract the ZIP file
 4) Run it
-5) Launch any roblox game you want to script in
+5) Launch any roblox game you want to use scripts in
 6) Click inject
 7) After injecting execute your scripts.
 
