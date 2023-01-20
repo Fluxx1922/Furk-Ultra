@@ -1,8 +1,8 @@
 # Furk-Ultra
 Furk Ultra is a executor with a built in scripts
 
-IMPORTANT:
-MAKE SURE YOU RUN BYPASS BEFORE RUNNING FURK ULTRA OR YOU WILL GET INSTANT BANNED
+  IMPORTANT: 
+  MAKE SURE YOU RUN BYPASS BEFORE RUNNING FURK ULTRA OR YOU WILL GET INSTANT BANNED
 
 If your struggling to download click [here](https://github.com/CdIkEXPLOIT/Furk-Ultra/archive/refs/heads/main.zip) to download
 
