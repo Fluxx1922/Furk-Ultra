@@ -1,6 +1,8 @@
 # Furk-Ultra
 Furk Ultra is a executor with a built in scripts
 
+https://github.com/CdIkEXPLOIT/Furk-Ultra/archive/refs/heads/main.zip to download
+
 Tuturiol:
 1) Click on code (green)
 2) Download ZIP
