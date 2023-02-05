@@ -28,4 +28,4 @@ UI:
 
 Built In Script:
 
-![images](https://user-images.githubusercontent.com/122708389/212520583-0c71516c-326e-4c8b-b029-3035da7395cc.png)
+![image](https://user-images.githubusercontent.com/122708389/216851932-8e3a594a-e189-48c0-864d-ad717a7733c9.png)
