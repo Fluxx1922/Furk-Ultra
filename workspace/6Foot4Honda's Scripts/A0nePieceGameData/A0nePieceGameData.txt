@@ -1,0 +1,1 @@
+{"Raids":["Candy","Fujitora","Law","MiHawk","Shanks"],"raidCounter":{"Raids":{"Fujitora":0,"MiHawk":0,"Shanks":0,"Law":0,"Candy":0},"Mazes":{"Regular":0},"Dungeons":[]},"Mazes":["Regular"],"lastServerId":"19738b4f-e38d-40d0-a27a-659111f6d7d8","Dungeons":["Mirror 2"]}
