@@ -24,8 +24,8 @@ List of features :
 - Reliable & Always Up To Date
 
 UI:
-![image](https://user-images.githubusercontent.com/122708389/212520569-15b6b5f1-62c0-46d3-9a53-a5377737f979.png)
+![image](https://user-images.githubusercontent.com/122708389/216851841-29440c49-3a4f-4ee9-bca7-3c04cd30a3b4.png)
 
 Built In Script:
 
-![images](https://user-images.githubusercontent.com/122708389/212520583-0c71516c-326e-4c8b-b029-3035da7395cc.png)
+![image](https://user-images.githubusercontent.com/122708389/216851932-8e3a594a-e189-48c0-864d-ad717a7733c9.png)
