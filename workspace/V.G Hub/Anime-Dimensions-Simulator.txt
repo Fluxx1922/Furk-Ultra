@@ -1,1 +1,0 @@
-{"Difficulty":"Easy","Raids":"Fate Dimension","AutoFarm":false,"JJ":false}

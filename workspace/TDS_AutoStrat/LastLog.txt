@@ -1,5 +1,0 @@
---[START OF LOG]--
-[07:57:14] Selected Mode (Mode Normal)
-[07:57:30] Placed Scout
-[07:57:31] Upgraded (Troop Scout With Number 1)
-[07:57:31] Upgraded (Troop Scout With Number 1)

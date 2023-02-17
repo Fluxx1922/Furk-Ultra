@@ -1,1 +1,0 @@
-{"Farm PP OP":false,"AutoDeath Farm BT":false,"RejoinDelay":5,"Farm FS OP":false,"Autoequip Psychic":true,"AutoDeath Farm BT OP":false,"BT Farm":false,"MsJp Farm":false,"BT Farm OP":true,"Auto ServerHop":false,"AutoRejoin":false,"Autorespawn Delay":5,"Farm FS":false,"Farm PP":false,"Autorespawn":true,"Kill ALL PP":false,"Autoequip Fist":true}
