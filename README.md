@@ -8,7 +8,7 @@ Furk Ultra is a executor with a built in scripts
 # 📁 〢 Tuturiol
 1) Download the [Furk Ultra](https://github.com/CdIkEXPLOIT/Furk-Ultra/archive/refs/heads/main.zip)
 3) Extract the ZIP file
-4) Run it
+4) Run the Bypass.bat (it automatically runs the FurkUltra.exe)
 5) Launch any roblox game you want to use scripts in
 6) Click inject
 7) After injecting execute your scripts.
