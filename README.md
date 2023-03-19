@@ -5,7 +5,7 @@ Furk Ultra is a executor with a built in scripts
 
 If your struggling to download click [here](https://github.com/CdIkEXPLOIT/Furk-Ultra/archive/refs/heads/main.zip) to download
 
-📁 〢 Tuturiol
+# 📁 〢 Tuturiol
 1) Click on code (green)
 2) Download ZIP
 3) Extract the ZIP file
