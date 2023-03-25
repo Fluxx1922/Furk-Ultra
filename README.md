@@ -22,7 +22,7 @@ Furk Ultra is a executor with a built in scripts
 - High stability
 - Reliable & Always Up To Date
 
-# UI:
+## UI:
 ![image](https://user-images.githubusercontent.com/122708389/216851841-29440c49-3a4f-4ee9-bca7-3c04cd30a3b4.png)
 
 ## Built In Scripts:
