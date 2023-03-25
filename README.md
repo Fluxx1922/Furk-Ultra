@@ -25,6 +25,6 @@ Furk Ultra is a executor with a built in scripts
 # UI:
 ![image](https://user-images.githubusercontent.com/122708389/216851841-29440c49-3a4f-4ee9-bca7-3c04cd30a3b4.png)
 
-## Built In Script:
+## Built In Scripts:
 
 ![image](https://user-images.githubusercontent.com/122708389/216851932-8e3a594a-e189-48c0-864d-ad717a7733c9.png)
